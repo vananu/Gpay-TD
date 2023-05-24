@@ -10,3 +10,4 @@ this is **italics** is text
 - missed
 1. am trying.
 2. this is where
+this is *italics* is text
