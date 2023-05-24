@@ -29,5 +29,5 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 -	Open the GPay App on your phone
 -	Your camera will now open and give you two options
 -	If the QR code's photo is in your gallery, you can upload  it
--		>OR
+		>OR
  click “on” the Upload from Gallery' button
