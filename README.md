@@ -9,3 +9,5 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 **Send money on GPay using bank details:**
 
 ![image](https://github.com/vananu/Gpay-TD/assets/134517189/e81abdc3-4387-4cae-ba22-bd70eb35f155)
+-•	Open the GPay application on your phone
+-•	Tap on the 'Bank Transfer' button at the top
