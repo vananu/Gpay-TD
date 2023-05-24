@@ -4,13 +4,13 @@ Google Pay( G Pay), was founded on May 26, 2011.Initially started as Google Wall
 
 G pay is a mobile wallet that is available to download (App Store for IOS and play store for Android). GPay is the single platform handling UPI money transfers, QR code payments, mobile phone number recharge, cashless transactions, and bill payments. G Pay a contactless payment service and it is an easier way to transact. 
 
- Let’s discuss about the different ways  available  to  transfer  money  using G Pay. 
+  Let’s discuss about the different ways  available  to  transfer  money  using G Pay. 
  
  
  
  **Send money on GPay using bank details:**
 
-           ![image](https://github.com/vananu/Gpay-TD/assets/134517189/e81abdc3-4387-4cae-ba22-bd70eb35f155)
+![image](https://github.com/vananu/Gpay-TD/assets/134517189/e81abdc3-4387-4cae-ba22-bd70eb35f155)
 
 -	Open the GPay application on your phone
 - Tap on the 'Bank Transfer' button at the top
