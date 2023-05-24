@@ -11,5 +11,4 @@ this is **italics**  text.
 1. am trying.
 2. this is where
 this is *italics* [Gpay](https://www.markdownguide.org/basic-syntax/#links).
-iim skills - Yahoo India Image Search results
-iim skills - Yahoo India Image Search results
+https://logos-world.net/wp-content/uploads/2020/09/Linux-Logo-1996-present.png
