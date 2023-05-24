@@ -16,6 +16,7 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 - Tap the 'Continue' button and enter the desired  amount
 - 	Tap the 'Pay' button and enter your UPI PIN
 
+**Send money on GPay using a QR code:**
 ![image](https://github.com/vananu/Gpay-TD/assets/134517189/e6f865cd-196a-4249-bd43-01a3451f952d)
 
 -	Open the GPay App on your phone
