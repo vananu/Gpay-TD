@@ -16,6 +16,7 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 - Tap the 'Continue' button and enter the desired  amount
 - 	Tap the 'Pay' button and enter your UPI PIN
 
+
 **Send money on GPay using UPI ID:**
 
 ![image](https://github.com/vananu/Gpay-TD/assets/134517189/e6f865cd-196a-4249-bd43-01a3451f952d)
@@ -25,12 +26,11 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 - Tap the 'Pay' button and enter the amount
 - Tap the button with an Arrow and enter your UPI PIN
 
+
 **Send money on GPay using QR Code:**
 
 ![image](https://github.com/vananu/Gpay-TD/assets/134517189/f6b6c742-388f-4ef2-b3ee-36b703cf6bc4)
 
 -	Open the GPay App on your phone
 -	Your camera will now open and give you two options
--	If the QR code's photo is in your gallery, you can upload  it
-> OR
->> click “on” the Upload from Gallery' button
+-	If the QR code's photo is in your gallery, you can upload  it  OR  click “on” the Upload from Gallery' button
