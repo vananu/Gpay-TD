@@ -6,6 +6,7 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 
  Let’s discuss about the different ways  available  to  transfer  money  using G Pay. 
  
+ 
 **Send money on GPay using bank details:**
 
 ![image](https://github.com/vananu/Gpay-TD/assets/134517189/e81abdc3-4387-4cae-ba22-bd70eb35f155)
@@ -34,6 +35,6 @@ G pay is a mobile wallet that is available to download (App Store for IOS and pl
 
 -	Open the GPay App on your phone
 -	Your camera will now open and give you two options
--	If the QR code's photo is in your gallery, you can upload  it  OR  click “on” the Upload from Gallery' button
+-	If the QR code's photo is in your gallery, you can upload it  OR  click “on” the Upload from Gallery' button
 -	Tap the 'Pay' button and enter the amount
 -	Tap the Arrow and enter your UPI PIN
